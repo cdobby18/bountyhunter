@@ -1,0 +1,24 @@
+2026-07-17 12:24:34,717 INFO    MainThread:9680 [wandb_setup.py:_flush():81] Current SDK version is 0.28.0
+2026-07-17 12:24:34,717 INFO    MainThread:9680 [wandb_setup.py:_flush():81] Configure stats pid to 9680
+2026-07-17 12:24:34,717 INFO    MainThread:9680 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-07-17 12:24:34,718 INFO    MainThread:9680 [wandb_init.py:setup_run_log_directory():725] Logging user logs to D:\CJ\Documents\AI-Roadmap\Projects\phase-3-bountyhunter\wandb\run-20260717_122434-vtql5s5h\logs\debug.log
+2026-07-17 12:24:34,718 INFO    MainThread:9680 [wandb_init.py:setup_run_log_directory():726] Logging internal logs to D:\CJ\Documents\AI-Roadmap\Projects\phase-3-bountyhunter\wandb\run-20260717_122434-vtql5s5h\logs\debug-internal.log
+2026-07-17 12:24:34,718 INFO    MainThread:9680 [wandb_init.py:init():768] calling init triggers
+2026-07-17 12:24:34,719 INFO    MainThread:9680 [wandb_init.py:init():773] wandb.init called with sweep_config: {}
+config: {'epochs': 100, 'lr': 0.001, 'batch_size': 64, 'hidden': [64, 32], 'seed': 42, '_wandb': {}}
+2026-07-17 12:24:34,719 INFO    MainThread:9680 [wandb_init.py:init():816] starting backend
+2026-07-17 12:24:34,719 INFO    MainThread:9680 [wandb_init.py:init():831] sending inform_init request
+2026-07-17 12:24:35,926 INFO    MainThread:9680 [wandb_init.py:init():836] backend started and connected
+2026-07-17 12:24:35,969 INFO    MainThread:9680 [wandb_init.py:init():906] updated telemetry
+2026-07-17 12:24:36,059 INFO    MainThread:9680 [wandb_init.py:init():929] communicating run to backend with 90.0 second timeout
+2026-07-17 12:24:36,446 INFO    MainThread:9680 [wandb_init.py:init():974] starting run threads in backend
+2026-07-17 12:24:36,799 INFO    MainThread:9680 [wandb_run.py:_console_start():2523] atexit reg
+2026-07-17 12:24:36,799 INFO    MainThread:9680 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-07-17 12:24:36,799 INFO    MainThread:9680 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-07-17 12:24:36,800 INFO    MainThread:9680 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-07-17 12:24:36,807 INFO    MainThread:9680 [wandb_init.py:init():1012] run started, returning control to user process
+2026-07-17 12:24:41,461 INFO    MainThread:9680 [wandb_run.py:_finish():2285] finishing run carljoshuamcoloma-feu-institute-of-technology/bountyhunter/vtql5s5h
+2026-07-17 12:24:41,462 INFO    MainThread:9680 [wandb_run.py:_atexit_cleanup():2490] got exitcode: 0
+2026-07-17 12:24:41,463 INFO    MainThread:9680 [wandb_run.py:_restore():2472] restore
+2026-07-17 12:24:41,463 INFO    MainThread:9680 [wandb_run.py:_restore():2478] restore done
+2026-07-17 12:24:43,942 INFO    MainThread:9680 [wandb_run.py:_footer_sync_info():3895] logging synced files

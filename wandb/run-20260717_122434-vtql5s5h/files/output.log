@@ -1,0 +1,13 @@
+Epoch  10 | train RMSE 911.51 | val RMSE 875.82 | val MAE 834.14
+Epoch  20 | train RMSE 801.20 | val RMSE 758.87 | val MAE 717.23
+Epoch  30 | train RMSE 519.65 | val RMSE 480.07 | val MAE 443.99
+Epoch  40 | train RMSE 203.86 | val RMSE 189.05 | val MAE 161.35
+Epoch  50 | train RMSE 105.63 | val RMSE 104.33 | val MAE 82.12
+Epoch  60 | train RMSE 94.36 | val RMSE 94.63 | val MAE 73.15
+Epoch  70 | train RMSE 88.86 | val RMSE 89.86 | val MAE 69.53
+Epoch  80 | train RMSE 84.03 | val RMSE 85.59 | val MAE 66.26
+Epoch  90 | train RMSE 79.76 | val RMSE 82.01 | val MAE 63.37
+Epoch 100 | train RMSE 75.94 | val RMSE 78.50 | val MAE 60.83
+
+Model saved → bounty_model.pt
+Final val MAE: 60.83M berries

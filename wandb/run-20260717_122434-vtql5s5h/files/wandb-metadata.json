@@ -1,0 +1,40 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.14.6",
+  "startedAt": "2026-07-17T04:24:34.713538Z",
+  "program": "D:\\CJ\\Documents\\AI-Roadmap\\Projects\\phase-3-bountyhunter\\train.py",
+  "codePath": "Projects\\phase-3-bountyhunter\\train.py",
+  "codePathLocal": "train.py",
+  "git": {
+    "remote": "https://github.com/cdobby18/AI-Roadmap.git",
+    "commit": "3d27785b564afbd94f6eaa95e7cff61a91c46da8"
+  },
+  "email": "carljoshuamcoloma@gmail.com",
+  "root": "D:\\CJ\\Documents\\AI-Roadmap\\Projects\\phase-3-bountyhunter",
+  "host": "DESKTOP-PO21Q72",
+  "executable": "C:\\Python314\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 4,
+  "gpu": "NVIDIA GeForce GTX 1050 Ti",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "999057772544",
+      "used": "457784430592"
+    }
+  },
+  "memory": {
+    "total": "8530448384"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce GTX 1050 Ti",
+      "memoryTotal": "4294967296",
+      "cudaCores": 768,
+      "architecture": "Pascal",
+      "uuid": "GPU-20a35aa7-d4b6-bafe-b524-cc89a51adbec"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "tp08y1zr2d9dbhauvmo91mccr2bqfbxn"
+}
