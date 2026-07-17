@@ -88,25 +88,3 @@ phase-3-bountyhunter/
 └── README.md
 ```
 
----
-
-## Deploy on Streamlit Community Cloud (Free)
-
-1. Push this project to a **public GitHub repository**
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **"New app"** → connect your GitHub repo
-4. Set the main file to `streamlit_app.py`
-5. Click **Deploy** — live at `https://your-app.streamlit.app`
-
----
-
-## Key Concepts Demonstrated
-
-- NumPy vectorized operations and broadcasting
-- sklearn `fit`/`predict` pattern with StandardScaler
-- Cross-validation for reliable performance estimates
-- GridSearchCV for hyperparameter tuning
-- PyTorch `nn.Module`, training loop, and checkpointing
-- Regression metrics (MAE, RMSE, R²) vs classification metrics (precision, recall, F1, AUC-ROC)
-- Experiment tracking with W&B
-- Streamlit for model deployment
